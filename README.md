@@ -1,16 +1,30 @@
-## Hi there 👋
+<h2 align="left">Hallo 👋</h2>
 
-<!--
-**smyy1001/smyy1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is Sumeyye and I'm a Computer Science student at Bilkent University.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h3 align="left">Hobbies</h3>
+
+###
+
+<p align="left">✨ Creating bugs since ✨<br>(Also, working as a Software Consultant at SSTEK)</p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/smyy1001/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/smyy1001/smyy1001/output/snake.svg" alt="Snake animation" />
+
+###
