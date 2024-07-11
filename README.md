@@ -9,7 +9,7 @@
 <h3 align="left">Hobbies</h3>
 
 
-<p align="left">✨ Creating bugs since ✨<br>(Also, working as a Software Consultant at SSTEK)</p>
+<p align="left">✨ Creating bugs ✨<br>(Also, working as a Software Consultant at SSTEK)</p>
 
 ###
 
